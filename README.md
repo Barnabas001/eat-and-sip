@@ -32,8 +32,34 @@ You can add friends, track balances, and split expenses between yourself and you
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/split-bill-app.git
+   git clone https://github.com/Barnabas001/eat-and-sip
    ```
+
+   📱 Responsive Design
+
+On desktop, the layout displays in two columns (friends list + form).
+
+On tablet and mobile, it collapses into a single column.
+
+Inputs and buttons expand for easier use on smaller screens.
+
+✨ Usage
+
+Add a friend using the Add Friend form.
+
+Select a friend from the list.
+
+Enter the bill details in the Split Bill form:
+
+Bill value
+
+Your expense
+
+Who is paying the bill
+
+Submit to update balances.
+
+
 
 ## Available Scripts
 
